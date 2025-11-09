@@ -1,4 +1,4 @@
-# *Exploiting Relative Depth for Cross-domain Semantic Segmentation of High-resolution Satellite Remote Sensing Images*  
+# Exploiting Relative Depth for Cross-domain Semantic Segmentation of High-resolution Satellite Remote Sensing Images
 
 ## Introduction
 Official codebase of the paper **Exploiting Relative Depth for Cross-domain Semantic Segmentation of High-resolution Satellite Remote Sensing Images** by ***Yongqi Sun, Chenguang Dai, Yu Su, Yujun Quan, Zhenchao Zhang, Meilin Li and Anzhu Yu***.
